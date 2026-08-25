@@ -1,4 +1,10 @@
 {
+  "https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Consultant--Business-Operations_R-140475": {
+    "company": "Coca-Cola",
+    "first_seen": "2026-08-25 01:38:44 UTC",
+    "label": "Low",
+    "title": "Consultant, Business Operations"
+  },
   "https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Digital-Change-Leadership---Communications_R-144406": {
     "company": "Coca-Cola",
     "first_seen": "2026-08-24 02:10:32 UTC",
@@ -227,10 +233,22 @@
     "label": "Low",
     "title": "Sr. Payroll Tax Analyst"
   },
+  "https://inspirebrands.wd5.myworkdayjobs.com/en-US/InspireCareers/job/Atlanta-Support-Center/Supervisor--Credit---Collections_JR41402": {
+    "company": "Inspire Brands",
+    "first_seen": "2026-08-25 01:38:44 UTC",
+    "label": "Low",
+    "title": "Supervisor, Credit & Collections"
+  },
   "https://inspirebrands.wd5.myworkdayjobs.com/en-US/InspireCareers/job/Atlanta-Support-Center/Supervisor--Global-Accounts-Payable_JR41280": {
     "company": "Inspire Brands",
     "first_seen": "2026-08-24 02:10:34 UTC",
     "label": "Low",
     "title": "Supervisor, Global Accounts Payable"
+  },
+  "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Technical-Operations-Assistant---CNN_R000106869-1": {
+    "company": "CNN",
+    "first_seen": "2026-08-25 01:38:44 UTC",
+    "label": "Low",
+    "title": "Technical Operations Assistant - CNN"
   }
 }
